@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680901060718",
+    "project_id": "findmycare-9e694",
+    "storage_bucket": "findmycare-9e694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680901060718:android:b2c183d8325a47f7ebde7f",
+        "android_client_info": {
+          "package_name": "com.project.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680901060718-ps9boo63ca8u3u5nf71ak6ha61s9nv1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGCSwo7-z-_tycalxTXWiLKlwuGcmm40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680901060718-ps9boo63ca8u3u5nf71ak6ha61s9nv1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
